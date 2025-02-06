@@ -1,9 +1,9 @@
 # Insert here your bot token here
-BOT_TOKEN = ""
+BOT_TOKEN = "8035062701:AAG0Jy2SJQUzV6V93x1Fm4bLA0_adoif2Js"
 
 # Enter here the shop owners' telegram ids (@getmyid_bot may help you)
 # You may add as much as you can, but I recommend not to add too much.
-admins = {1718021890}
+admins = {7626439291}
 
 currency = "$"
 
