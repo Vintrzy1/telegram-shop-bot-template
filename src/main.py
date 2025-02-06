@@ -58,10 +58,10 @@ async def process_callback_my_orders(callback_query: types.CallbackQuery):
 async def process_callback_developer(callback_query: types.CallbackQuery):
     await bot.send_message(
         chat_id=callback_query.from_user.id,
-        text="""Bot developer is @anekobtw
-Telegram channel: @anekobtww
-Github: https://github.com/anekobtw
-Source code of this bot: https://github.com/anekobtw/telegram-shop-bot""",
+        text="""Bot developer is @vintrzy
+Telegram channel: @hostingvintrzy
+Github: https://github.com/vintrzy
+Source code of this bot: https://github.com/vintrzy/telegram-shop-bot""",
     )
 
 
